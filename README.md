@@ -9,8 +9,7 @@ Another awesome shitty markdown blog.
 - no compilation
 - slow
 
-folders
-=======
+# files & folders #
 
 ## core ##
 
@@ -40,3 +39,6 @@ Start with a little medata header:
 
     your markdown
 
+## index.html ##
+
+Don't touch that either.
