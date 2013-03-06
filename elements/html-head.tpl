@@ -1,5 +1,5 @@
 <!-- will be appended to the <head> element -->
-<title data-default="My awesome homepage"></title>
+<title></title>
 
 <style>
     body {

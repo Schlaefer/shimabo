@@ -26,10 +26,7 @@ Don't touch that!
 
 Reusable elements. Include with {{elementName}}.
 
-You need a `html-head.tpl`. The content of this is added to the html head-tag. In it use `<title data-base="My awesome homepage"></title>` to set a
-global page title.
-  
-
+You need a `html-head.tpl`. The content of this is added to the html head-tag.
 
 ### layouts ###
 
@@ -49,7 +46,13 @@ Start with a little metadata header:
 
     your markdown
 
+### config.json ###
+
+Set some base parameters
+
+* siteTitle: title of the site
 
 ### index.html ###
 
 Don't touch that either.
+
