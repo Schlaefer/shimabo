@@ -1,6 +1,9 @@
 shimabo
 =======
 
+
+## What ##
+
 Another awesome shitty markdown blog.
 
 - markdown
@@ -9,24 +12,30 @@ Another awesome shitty markdown blog.
 - no compilation
 - slow
 
-# files & folders #
 
-## core ##
+## Files & Folders ##
+
+
+### core ###
 
 Don't touch that!
 
-## elements ##
+
+### elements ###
 
 Reusable elements. Include with {{elementName}}.
 
 You need a `html-head.tpl`. The content of this is added to the html head-tag. In it use `<title data-base="My awesome homepage"></title>` to set a
 global page title.
   
-## layouts ##
+
+
+### layouts ###
 
 default.tpl is the default layout. Include content with a {{content}}.
 
-## pages ##
+
+### pages ###
 
 Your markdown pages. Extension `md`. You need `index.md` for the homepage. A
 page `mypage.md` has the url `#/mypage`.
@@ -39,6 +48,7 @@ Start with a little medata header:
 
     your markdown
 
-## index.html ##
+
+### index.html ###
 
 Don't touch that either.
