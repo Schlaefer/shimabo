@@ -4,8 +4,10 @@ title: home
 
 # My Homepage
 
-[Visit another page](#/anotherpage)
+This is the content of the [index.md](pages/index.md).
 
-Now an example element:
+[Visit anotherpage](#/anotherpage).
+
+Include `elements/exampleElement.tpl`:
 
 {{exampleElement}}

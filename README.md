@@ -12,7 +12,7 @@ Another awesome shitty markdown blog.
 - no compilation
 - slow
 
-See the this repo running: <http://schlaefer.github.com/shimabo/>
+See this repo "running": <http://schlaefer.github.com/shimabo/>
 
 ## Files & Folders ##
 
