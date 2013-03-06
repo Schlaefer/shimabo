@@ -60,7 +60,7 @@
             } else {
                 title = newTitle;
             }
-            $("title").html(title);
+            document.title = title;
         },
 
         setPage: function(pageId) {
