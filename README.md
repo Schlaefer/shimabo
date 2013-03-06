@@ -40,7 +40,7 @@ default.tpl is the default layout. Include content with a {{content}}.
 Your markdown pages. Extension `md`. You need `index.md` for the homepage. A
 page `mypage.md` has the url `#/mypage`.
 
-Start with a little medata header:
+Start with a little metadata header:
 
     layout: default
     title: Page Title
