@@ -12,7 +12,7 @@ Another awesome shitty markdown blog.
 folders
 =======
 
-## cores ##
+## core ##
 
 Don't touch that!
 
