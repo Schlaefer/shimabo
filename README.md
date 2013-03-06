@@ -20,8 +20,7 @@ Don't touch that!
 
 Reusable elements. Include with {{elementName}}.
 
-You need a `html-head.tpl`. The content of this is added to the html <head>
-element. In it use `<title data-base="My awesome homepage"></title>` to set a
+You need a `html-head.tpl`. The content of this is added to the html head-tag. In it use `<title data-base="My awesome homepage"></title>` to set a
 global page title.
   
 ## layouts ##
