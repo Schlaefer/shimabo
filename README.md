@@ -11,6 +11,8 @@ Another awesome shitty markdown blog.
 - reusable snipplets
 - no compilation
 - slow
+- secure from any google indexing (aka can build self driving cars but index
+  js pages … that's madness)
 
 See this repo "running": <http://schlaefer.github.com/shimabo/>
 
