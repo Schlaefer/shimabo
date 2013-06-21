@@ -6,6 +6,8 @@ shimabo
 
 Another awesome shitty markdown blog.
 
+No server side script language, no local compilation. Just upload the static files and you're done.
+
 - markdown
 - layout templates
 - reusable snipplets
