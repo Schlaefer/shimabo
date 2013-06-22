@@ -16,7 +16,10 @@ No server side script language, no local compilation. Just upload the static fil
 - secure from any google indexing (aka can build self driving cars but index
   js pages … that's madness)
 
-See this repo "running": <http://schlaefer.github.com/shimabo/>
+See this repo running on [github as gh-page] or there's also a branch for [neocities].
+
+[github as gh-page]: [http://schlaefer.github.com/shimabo/]
+[neocities]: http://shimabo.neocities.org/
 
 ## Files & Folders ##
 
