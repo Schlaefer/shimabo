@@ -4,6 +4,6 @@ title: home
 
 # My Homepage
 
-This is the content of the [pages/index.md](pages/index.md).
+This is the content of the [page-index.md](page-index.md).
 
 [Visit anotherpage](#/anotherpage).
