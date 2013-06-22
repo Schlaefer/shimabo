@@ -7,7 +7,7 @@
     var AppModel = Backbone.Model.extend({
         fetch: function() {
             $.ajax({
-                url: 'config.json',
+                url: 'config.js',
                 async: false,
                 success: _.bind(function(data) {
                     this.set(data);
@@ -33,9 +33,9 @@
         }
     });
 
-    var AppPage = TemplateModel.extend({base: "pages/"});
-    var AppElement = TemplateModel.extend({base: "elements/"});
-    var AppLayout = TemplateModel.extend({base: "layouts/"});
+    var AppPage = TemplateModel.extend({base: "page-"});
+    var AppElement = TemplateModel.extend({base: "element-"});
+    var AppLayout = TemplateModel.extend({base: "layout-"});
     var AppElements = Backbone.Collection.extend({model: AppElement});
     var AppPages = Backbone.Collection.extend({model: AppPage});
     var AppLayouts = Backbone.Collection.extend({model: AppLayout});
@@ -44,7 +44,7 @@
 
         el: "body",
         tpl: "layout.html",
-        headTpl: "html-head.tpl",
+        headTpl: "html-head.html",
 
         initialize: function(options) {
             this.pages = options.pages;
@@ -99,7 +99,7 @@
         getTemplate: function(id, collection) {
             var template;
 
-            id = id + ".tpl";
+            id = id + ".html";
             template = collection.get(id);
             if (template === undefined) {
                 collection.add({
