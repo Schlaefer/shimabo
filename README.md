@@ -16,10 +16,11 @@ No server side script language, no local compilation. Just upload the static fil
 - secure from any google indexing (aka can build self driving cars but index
   js pages … that's madness)
 
-See this repo running on [github as gh-page][1] or there's also a branch for [neocities].
+See this repo running on [github as gh-page][1] (there's also a branch for [neocities]) or [saito]. 
 
-[1]: [http://schlaefer.github.io/shimabo/]
+[1]: http://schlaefer.github.io/shimabo/
 [neocities]: http://shimabo.neocities.org/
+[saito]: http://saito.siezi.com/
 
 ## Files & Folders ##
 
