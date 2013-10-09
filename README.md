@@ -15,8 +15,9 @@ No server side script language, no local compilation. Just upload the static fil
 - slow
 - secure from any google indexing (aka can build self driving cars but index
   js pages … that's madness)
+- backbone, markdown parser and under 250 lines of custom code
 
-See this repo running on [github as gh-page][1] (there's also a branch for [neocities]) or [saito]. 
+See this repo running on [github as gh-page][1] (there's also a branch for [neocities]) or [the Saito homepage][saito]. 
 
 [1]: http://schlaefer.github.io/shimabo/
 [neocities]: http://shimabo.neocities.org/
