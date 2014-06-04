@@ -4,9 +4,9 @@ shimabo
 
 ## What ##
 
-Another awesome *shi*tty *ma*rkdown *b*l*o*g.
+Another awesome shitty markdown blog.
 
-Tired of server side scripting? Just want to put a side up? Don't care about SEO? Can't remember the commands of your awesome static page renderer commands after two months? Then shimabo is for you!
+Tired of server side scripting? Just want to put a side up? Don't care about SEO? Can't remember the commands of your awesome static page renderer after two months? Then shimabo is for you!
 
 No server side script language, no local compilation. Just upload the static files and you're done.
 
